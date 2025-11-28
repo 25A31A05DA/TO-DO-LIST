@@ -34,8 +34,8 @@ All tasks are saved and loaded from localStorage
 
 ## Live Demo
 
-Hosted Link: add your GitHub Pages link
-Repository: add repo link
+Hosted Link:  https://github.com/25A31A05DA
+Repository:  https://25a31a05da.github.io/TO-DO-LIST/
 
 ## Tech Stack
 
